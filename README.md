@@ -17,7 +17,7 @@ Team hands-on practice repository for learning the full Databricks Lakehouse wor
 | `/Dhanush` | Person 1 |
 | `/Navya` | Person 2 |
 | `/Pearl` | Person 3 |
-| `/Akshay` | Person 3 |
+| `/Akshay` | Person 4 |
 | `/notebooks/shared` | All team members |
 | `/data` | Shared datasets |
 | `/docs` | Notes and documentation |
