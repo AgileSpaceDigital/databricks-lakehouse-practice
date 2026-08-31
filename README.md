@@ -14,9 +14,10 @@ Team hands-on practice repository for learning the full Databricks Lakehouse wor
 ## Team Workspace Layout
 | Folder | Owner |
 |--------|-------|
-| `/dev_person1` | Person 1 |
-| `/dev_person2` | Person 2 |
-| `/dev_person3` | Person 3 |
+| `/Dhanush` | Person 1 |
+| `/Navya` | Person 2 |
+| `/Pearl` | Person 3 |
+| `/Akshay` | Person 3 |
 | `/notebooks/shared` | All team members |
 | `/data` | Shared datasets |
 | `/docs` | Notes and documentation |
